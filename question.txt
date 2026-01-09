@@ -1,0 +1,10 @@
+1. On a scale of 1 to 10, how would you rate your overall mood over the past week?
+2. How often have you felt stressed or overwhelmed in the past month, on a scale from 1 to 10?
+3. On a scale of 1 to 10, how well have you been sleeping recently?
+4. How would you rate your ability to focus and concentrate on your schoolwork, on a scale from 1 to 10?
+5. On a scale of 1 to 10, how supported do you feel by your friends and family?
+6. How often have you felt anxious or worried in the past few weeks, on a scale from 1 to 10?
+7. On a scale of 1 to 10, how satisfied are you with your social life and friendships?
+8. How would you rate your level of physical activity and exercise, on a scale from 1 to 10?
+9. On a scale of 1 to 10, how confident do you feel in managing your daily responsibilities and tasks?
+10. How often have you felt happy and content in the past month, on a scale from 1 to 10?
